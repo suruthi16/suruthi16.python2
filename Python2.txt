@@ -1,0 +1,51 @@
+Operators in python:
+
+Operators are used to perform operations on variables and values.
+Python divides the operators in the following groups:
+
+* Arithmetic operators
+* Assignment operators
+* Comparison operators
+* Logical operators
+* Identity operators
+* Membership operators
+* Bitwise operators
+
+Arithmetic operators:
+These operators are used with numeric values to perform common mathemetical operations.
+
+Assignment operators:
+These are used to assign values to variables.
+
+Comparison operators:
+These are used to compare two values.
+
+Logical operators:
+These are used to combine conditional statements.
+
+Identity operators:
+These are used to compare the objects, not if they are equal, but if they are actually the same object, with same memory location.
+
+Membership operators:
+These are used to test if a sequence is present in an object or not.
+
+Bitwise operators:
+These are used to compare binary numbers.
+
+Precedence of operators:
+To evaluate the expressions there is a rule called precedence in python. It guides the order in which these operations are carried out.
+The order is as follows:
+
+1. Paranthesis
+2. Exponent
+3. Unary plus, unary minus, Bitwise not
+4. Multiplication, division, floor division, modulus
+5. Addition, subtraction
+6. Bitwise shift operators
+7. Bitwise AND
+8. Bitwise XOR
+9. Bitwise OR
+10. Comparisons, identity, membership operators
+11. Logical NOT
+12. Logical AND
+13. Logical OR
